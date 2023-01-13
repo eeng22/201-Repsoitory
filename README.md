@@ -2,4 +2,4 @@
 
 ## **Name: Eric Eng**
 
-## **Major ECE**
+## **Major: ECE**
