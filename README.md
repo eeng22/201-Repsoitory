@@ -1,2 +1,5 @@
-# EE201 repository
 # aboutMe
+
+## **Name: Eric Eng**
+
+## **Major ECE**
